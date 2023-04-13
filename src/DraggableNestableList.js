@@ -39,7 +39,7 @@ class DraggableNestableList
             {
                 titleSpan.insertAdjacentHTML("beforeEnd", `
                     <span class="dnl-graber">
-                        <span class="material-icons dnl-grab-icon">menu</span>
+                        <span class="material-icons dnl-grab-icon">open_with</span>
                         ${config.indexing ? `
                             <span>
                                 <span class="dnl-index"></span>
